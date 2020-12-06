@@ -1,6 +1,6 @@
 package com.learning;
 
-public class Palindrome {
+public class PrintCharactersInString {
 
 	public static void main(String args[]) {
 		String inputString = "Nitin";
